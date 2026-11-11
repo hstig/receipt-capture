@@ -36,7 +36,7 @@ Optional: MQTT connection, control of the L476 via UART or I²C
 To be added once milestone 0 is done.
 
 ## Roadmap
- - [x] Milestone 0: Set up the Zephyr toolchain, run a sample program on the board, test the display
+ - [ ] Milestone 0: Set up the Zephyr toolchain, run a sample program on the board, test the display
  - [ ] Milestone 1: Connect one OV2640 via DCMI and capture an image
  - [ ] Milestone 1b: Live preview on the display
  - [ ] Milestone 2: Save an image with metadata to the microSD card
